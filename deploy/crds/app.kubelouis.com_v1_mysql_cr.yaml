@@ -1,0 +1,12 @@
+apiVersion: app.kubelouis.com/v1
+kind: MySQL
+metadata:
+  name: mysql-app
+spec:
+  image: mysql:5.7
+  replicas: 1
+  rootPassword: kubelouis
+  ports:
+    - port: 3306
+      targetPort: 3306
+      nodePort: 30060
