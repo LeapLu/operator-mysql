@@ -438,3 +438,7 @@ kubectl get all
 #### 源码地址💲
 
 https://github.com/KubeLouis/operator-mysql
+
+#### 感谢阳明的博客🙏💲
+
+https://www.qikqiak.com/
