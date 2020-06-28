@@ -439,6 +439,6 @@ kubectl get all
 
 https://github.com/KubeLouis/operator-mysql
 
-#### 感谢阳明的博客🙏💲
+#### 感谢阳明的博客🙏
 
 https://www.qikqiak.com/
